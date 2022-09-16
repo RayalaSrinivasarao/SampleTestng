@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.Test.Project.TestHelloworld" duration-ms="28" started-at="2021-10-21T11:10:18 IST" finished-at="2021-10-21T11:10:18 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="28" started-at="2021-10-21T11:10:18 IST" finished-at="2021-10-21T11:10:18 IST">
+      <class name="com.Test.Project.TestHelloworld">
+        <test-method status="PASS" signature="helloworldTest()[pri:0, instance:com.Test.Project.TestHelloworld@c038203]" name="helloworldTest" duration-ms="3" started-at="2021-10-21T11:10:18 IST" finished-at="2021-10-21T11:10:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloworldTest -->
+      </class> <!-- com.Test.Project.TestHelloworld -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.Test.Project.TestHelloworld -->
+</testng-results>
